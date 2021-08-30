@@ -9,7 +9,7 @@ import bs4
 import requests
 import urllib
 bot_token = "1570074278:AAG4e6LGkHIGEsQA3ov-k_LRG54L1sZaE8Q"
-bot_user_name = "@Tjhhhrbabot"
+bot_user_name = "Tjhhhrbabot"
 URL = "https://dmbbbbhjiu.herokuapp.com/"
 
 consumer_key = 'SBEyu3zjgw0z0W3WdgpOkibf0'
@@ -68,7 +68,7 @@ def respond():
                     for chunk in req:
                         image.write(chunk)
                 copyright_apply(filename, filename,
-                                text='@PrismWallpapers'
+                                text='@Doctooooooor'
                                 )
                 num = random.randint(0, 4)
                 randomText = ["Sometimes happy little accidents are the push you need for a spark of life. Open up the app for our latest Wallpapers.", "The beautiful nature of life is what keeps us thriving. Re-inspire your life with this and more awesome wallpapers.", "Kicking off the day in style is an art. You know what also is an art?\n\nThis wallpaper😊😊.",
@@ -113,7 +113,7 @@ def respond():
                     for chunk in req:
                         image.write(chunk)
                 copyright_apply(filename, filename,
-                                text='@PrismWallpapers'
+                                text='@Doctooooooor'
                                 )
                 status = api.update_with_media(filename, text)
                 bot.sendMessage(
