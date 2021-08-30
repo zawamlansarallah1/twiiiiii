@@ -9,7 +9,7 @@ import bs4
 import requests
 import urllib
 bot_token = "1570074278:AAG4e6LGkHIGEsQA3ov-k_LRG54L1sZaE8Q"
-bot_user_name = "Tjhhhrbabot"
+bot_user_name = "Doctooooooor"
 URL = "https://dmbbbbhjiu.herokuapp.com/"
 
 consumer_key = 'SBEyu3zjgw0z0W3WdgpOkibf0'
